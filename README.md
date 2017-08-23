@@ -10,8 +10,6 @@ The project was about drawing fractals using a graphics library, in C.
 
 ## Controls
 
--Basic controls:
-
 &larr; 	&uarr; 	&rarr; 	&darr; , to Move. <br />
 '+' , '-' , to use Zoom. <br />
 Page Up/Down to Increase/decrease Iterations. <br />
