@@ -13,10 +13,10 @@ The project was about drawing fractals using a graphics library, in C.
 -Basic controls:
 
 &larr; 	&uarr; 	&rarr; 	&darr; , to Move. <br />
-'+' , '-' , to use Zoom.
-Page Up/Down to Increase/decrease Iterations
-Esc to quit
-Space to Reset
-End change color
+'+' , '-' , to use Zoom. <br />
+Page Up/Down to Increase/decrease Iterations. <br />
+Esc to quit. <br />
+Space to Reset. <br />
+End change color.
 
 </tbody>
